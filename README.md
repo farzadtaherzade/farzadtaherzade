@@ -60,12 +60,6 @@ I'm **Farzad** — a developer who loves building **fun** stuff and playing with
   </picture>
 </p>
 
-## 💬 Dev quote of the moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="dev quote" />
-</p>
-
 ---
 
 <div align="center">
