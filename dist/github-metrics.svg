@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" role="img" aria-label="generating metrics">
+  <rect width="840" height="260" rx="12" fill="#2e3440"/>
+  <text x="420" y="130" font-family="Fira Code, monospace" font-size="20" fill="#d8dee9" text-anchor="middle">Generating metrics...</text>
+  <text x="420" y="158" font-family="Fira Code, monospace" font-size="13" fill="#88c0d0" text-anchor="middle">the GitHub Action will paint this shortly</text>
+</svg>

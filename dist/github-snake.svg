@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="generating snake">
+  <rect width="840" height="220" rx="12" fill="#eceff4"/>
+  <text x="420" y="112" font-family="Fira Code, monospace" font-size="20" fill="#4c566a" text-anchor="middle">Generating contribution snake...</text>
+  <text x="420" y="140" font-family="Fira Code, monospace" font-size="13" fill="#88c0d0" text-anchor="middle">the GitHub Action will paint this shortly</text>
+</svg>
